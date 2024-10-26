@@ -1,23 +1,23 @@
-Langkah - langkah Algoritma
-1.	Mulai
-Program dimulai.
-2.	Menerima Input 3 Bilangan
-Program meminta pengguna untuk memasukkan tiga buah bilangan (misalnya bilangan a, b, dan c).
-•	Pengguna akan memasukkan bilangan pertama (a).
-•	Pengguna akan memasukkan bilangan kedua (b).
-•	Pengguna akan memasukkan bilangan ketiga (c).
-3.	Periksa Bilangan Terbesar Menggunakan Pernyataan If Program menggunakan pernyataan if-elif-else untuk membandingkan bilangan yang telah dimasukkan dan menentukan bilangan terbesar:
-•	Cek pertama:
-	Jika bilangan pertama (a) lebih besar dari bilangan kedua (b) dan lebih besar dari bilangan ketiga (c), maka bilangan a adalah yang terbesar.
-	Program akan menyimpan nilai a sebagai bilangan terbesar.
-•	Cek kedua:
-	Jika bilangan pertama tidak lebih besar dari yang lain, maka program akan memeriksa apakah bilangan kedua (b) lebih besar dari bilangan pertama (a) dan lebih besar dari bilangan ketiga (c).
-	Jika kondisi ini terpenuhi, maka bilangan b adalah yang terbesar.
-	Program akan menyimpan nilai b sebagai bilangan terbesar.
-•	Cek ketiga (else):
-	Jika kedua kondisi di atas tidak terpenuhi, maka berarti bilangan ketiga (c) adalah yang terbesar.
-	Program akan menyimpan nilai c sebagai bilangan terbesar.
-4.	Menampilkan Bilangan Terbesar
-Setelah menentukan bilangan terbesar, program akan menampilkan bilangan tersebut ke layar.
-5.	Selesai
-Program berakhir.
+Algoritma Mencari Bilangan Terbesar
+
+Langkah-langkah Algoritma:
+1. Input:
+  Minta pengguna untuk memasukkan tiga buah bilangan (num1, num2, num3).
+2. Proses Perbandingan:
+  Menggunakan pernyataan if dan elif untuk membandingkan ketiga bilangan:
+  Jika num1 lebih besar atau sama dengan num2 dan num3, maka num1 adalah yang terbesar.
+  Jika tidak, periksa apakah num2 lebih besar atau sama dengan num1 dan num3. Jika ya, maka num2 adalah yang terbesar.
+  Jika tidak, maka num3 adalah yang terbesar.
+3. Output:
+  Cetak bilangan terbesar.
+
+FLOWCHART
+
+![Diagram Tanpa Judul](https://github.com/user-attachments/assets/40385262-e63a-4296-884a-db6f871fa6c3)
+
+
+
+Hasil Program
+
+
+![richwan ss](https://github.com/user-attachments/assets/a3c2e1d2-c4ed-4c2a-90f4-3b9fee45710a)
